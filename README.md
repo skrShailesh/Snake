@@ -11,6 +11,8 @@
 
 
 <br><br><img src="https://github.com/skrShailesh/Snake/blob/master/Snake pic 1.jpg" width="600px" height="400px" alt="left">
+  ![Snake pic 1](https://user-images.githubusercontent.com/114929285/214913588-7c4fffd9-7e58-4842-8b5c-0363099cf5b3.jpg)
+
 
 
 <br><br>The GAME OVER screen looks like this.
