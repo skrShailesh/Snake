@@ -10,7 +10,8 @@
 <br><br>The screen appears like this for Snake game 1.
 
 
-<br><br><img src="![Snake pic 1](https://user-images.githubusercontent.com/114929285/214913588-7c4fffd9-7e58-4842-8b5c-0363099cf5b3.jpg)" width="600px" height="400px" alt="left">
+<br><br><img src="![Snake pic 1](https://user-images.githubusercontent.com/114929285/214914496-71e74dc6-a0c1-4b1a-950c-8506a4e10c0d.jpg)
+" width="600px" height="400px" alt="left">
   
 
 
