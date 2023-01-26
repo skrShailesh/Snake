@@ -10,8 +10,7 @@
 <br><br>The screen appears like this for Snake game 1.
 
 
-<br><br><img src="![Snake pic 1](https://user-images.githubusercontent.com/114929285/214914496-71e74dc6-a0c1-4b1a-950c-8506a4e10c0d.jpg)
-" width="600px" height="400px" alt="left">
+<br><br><img src="![Snake pic 1](https://user-images.githubusercontent.com/114929285/214913588-7c4fffd9-7e58-4842-8b5c-0363099cf5b3.jpg)" width="600px" height="400px" alt="left">
   
 
 
@@ -19,6 +18,8 @@
 <br><br>The GAME OVER screen looks like this.
 
 <br><br><img src="D:\Android Devlopment\Android Projects\Snake\Snake2 pic 2.jpg" width="600px" height="400px" alt="left"><br>
+  ![Snake pic 2](https://user-images.githubusercontent.com/114929285/214914716-8ddea257-2bc2-4932-90c1-866aa91ae6ed.png)
+
 
 <br><br><br><h1><u>SNAKE GAME 2</u></h1>
 
