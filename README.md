@@ -10,7 +10,7 @@
 <br><br>The screen appears like this for Snake game 1.
 
 
-<br><br><img src="D:\Android Devlopment\Android Projects\Snake\Snake pic 1.jpg" width="600px" height="400px" alt="left">
+<br><br><img src="https://github.com/skrShailesh/Snake/blob/master/Snake%20pic%201.jpg" width="600px" height="400px" alt="left">
 
 
 <br><br>The GAME OVER screen looks like this.
