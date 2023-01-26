@@ -10,28 +10,28 @@
 <br><br>The screen appears like this for Snake game 1.
 
 
-<br><br><img src="![Snake pic 1](https://user-images.githubusercontent.com/114929285/214913588-7c4fffd9-7e58-4842-8b5c-0363099cf5b3.jpg)" width="600px" height="400px" alt="left">
-  
-
+<br><br>
+  ![Snake pic 1](https://user-images.githubusercontent.com/114929285/214915362-95f610b3-6f11-4901-b344-09370a4b7a8a.jpg)
 
 
 <br><br>The GAME OVER screen looks like this.
 
-<br><br><img src="D:\Android Devlopment\Android Projects\Snake\Snake2 pic 2.jpg" width="600px" height="400px" alt="left"><br>
-  ![Snake pic 2](https://user-images.githubusercontent.com/114929285/214914716-8ddea257-2bc2-4932-90c1-866aa91ae6ed.png)
+<br><br>
+  ![Snake pic 2](https://user-images.githubusercontent.com/114929285/214914716-8ddea257-2bc2-4932-90c1-866aa91ae6ed.png)<br>
 
 
 <br><br><br><h1><u>SNAKE GAME 2</u></h1>
 
 The screen appears like this for Snake game 2.
 
-
-<br><br><img src="D:\Android Devlopment\Android Projects\Snake\Snake2 pic 3.jpg" width="600px" height="400px" alt="left">
-
+<br><br>
+  ![Snake2 pic 3](https://user-images.githubusercontent.com/114929285/214916373-666d444b-5dfe-4112-9d7d-faf673a5a171.jpg)
 
 <br><br>The GAME OVER screen looks like this.
 
-<br><br><img src="D:\Android Devlopment\Android Projects\Snake\Snake2 pic 4.jpg" width="600px" height="400px" alt="left"><br>
+<br><br>
+  ![Snake2 pic 4](https://user-images.githubusercontent.com/114929285/214916473-7c97f619-e360-41bf-a3d4-eef1e5c1bf15.jpg)
+
 
 <br>I got to have hands on experience on:
 
