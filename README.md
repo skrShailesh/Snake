@@ -38,7 +38,7 @@ The screen appears like this for Snake game 2.
 <li>JAVA SWING
 
 <li>JAVAFX
-<li>java
+
 
 
 
